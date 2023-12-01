@@ -23,6 +23,8 @@ const cors = require("cors");
 const swaggerUi = require("swagger-ui-express");
 const swaggerJsdoc = require("swagger-jsdoc");
 
+console.log(THINHLE);
+
 //MIDDLEWARE
 
 //security http
