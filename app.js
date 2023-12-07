@@ -105,7 +105,7 @@ const customSiteTitle = "Tài liệu OOP Research API";
 
 //routers
 app.get("/", (req, res) => {
-  res.status(200).send("404 Not Found");
+  res.status(200).send("Thầy Vũ đẹp trai");
 });
 
 app.use(
