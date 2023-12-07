@@ -1,6 +1,6 @@
 # SERVER API OPP SEARCH
 
-## Truy cập ứng dụng
+## Truy cập ứng dụng...
 
 Môi trường staging:
 
